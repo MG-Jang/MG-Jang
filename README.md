@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MG-Jang
 - 👀 I’m interested in ROBotics, autonomous driving
-- 🌱 I’m currently learning pyhton, linux
+- 🌱 I’m currently learning pyhton, C/C++
 
 
 <!---
