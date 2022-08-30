@@ -11,12 +11,12 @@
 
 ## Career🎯
 
-- 삼성SW아카데미(SSAFY)
-  2022.01 ~
+- 삼성SW아카데미(SSAFY) 
+  - 2022.01 ~
 
 - Hongik University
-  Major: Electronic & Electrical Engineering
-  2015.03 ~2022.02
+  - Major: Electronic & Electrical Engineering
+  - 2015.03 ~2022.02
 
 
 <!---
