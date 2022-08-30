@@ -9,6 +9,14 @@
 - iot-car-project: 삼성전자 프로젝트(영상처리 기반 차량)
 - iot_robot_project: 삼성전자 공통프로젝트(아이돌봄 로봇 보비) 7주간 진행
 
+## Career
+
+- 삼성SW아카데미(SSAFY)
+  
+
+-Hongik University
+
+
 <!---
 MG-Jang/MG-Jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
