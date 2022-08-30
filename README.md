@@ -9,12 +9,14 @@
 - iot-car-project: 삼성전자 프로젝트(영상처리 기반 차량)
 - iot_robot_project: 삼성전자 공통프로젝트(아이돌봄 로봇 보비) 7주간 진행
 
-## Career
+## Career🎯
 
 - 삼성SW아카데미(SSAFY)
-  
+  2022.01 ~
 
--Hongik University
+- Hongik University
+  Major: Electronic & Electrical Engineering
+  2015.03 ~2022.02
 
 
 <!---
