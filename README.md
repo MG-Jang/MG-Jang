@@ -6,8 +6,8 @@
 
 - C-CPP-CODE: 알고리즘 정리
 - object_tracking_drone-OTD-: 자율주행 드론 프로젝트
-- iot-car-project: 삼성전자 프로젝트(영상처리 기반 차량)
-- SAMSUNG-IOT-ROBOT-PJT-BOBI: 삼성전자(SSAFY) 프로젝트 아이돌봄 로봇 보비 (최우수 프로젝트 수상)
+- iot-car-project: 삼성전자(SSAFY) 프로젝트(영상처리 기반 차량)
+- SAMSUNG-IOT-ROBOT-PJT-BOBI: 삼성전자(SSAFY)프로젝트 아이돌봄 로봇 보비
 
 ## Career🎯
 
