@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MyoungGeun-Jang<h5>
 
 Feel free to contact me!
-   ✉ jang23mg@naver.com
-
-  <hr>
+  ✉ jang23mg@naver.com
+  
+  <hr> 
 > 내용정리
 
 - C-CPP-CODE: 알고리즘 정리
