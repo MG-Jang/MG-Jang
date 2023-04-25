@@ -13,8 +13,11 @@ Feel free to contact me!
 
 ## Career🎯
 
-- 삼성SW아카데미(SSAFY) 
-  - 2022.01 ~
+- Programmers Autonomous Driving
+  - 2022.11 ~ 2023.3
+  
+- SAMSUNG SW ACADEMY FOR YOUYH (SSAFY) 
+  - 2022.01 ~ 2022.12
 
 - Hongik University
   - Major: Electronic & Electrical Engineering
