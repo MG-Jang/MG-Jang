@@ -22,13 +22,16 @@ Feel free to contact me!
 - iot-car-project: 삼성전자(SSAFY) 프로젝트(영상처리 기반 차량)
 - SAMSUNG-IOT-ROBOT-PJT-BOBI: 삼성전자(SSAFY)프로젝트 아이돌봄 로봇 보비
   
-## Experience
+### Language
 <div>
- <img src="https://img.shields.io/badge/IoT-80%25-f5f5dc?style=for-the-badge&logo=IoT">
- <img src="https://img.shields.io/badge/Embedded_System-90%25-800000?style=for-the-badge">
- <img src="https://img.shields.io/badge/Deep_Learning-80%25-ffcb6b?style=for-the-badge&logo=AI">
- <img src="https://img.shields.io/badge/Frontend-80%25-ffff00?style=for-the-badge">
-</div> 
+ <img src="https://img.shields.io/badge/C-100%25-yellow?style=for-the-badge&logo=C">
+ <img src="https://img.shields.io/badge/C++-100%25-yellowgreen?style=for-the-badge&logo=c%2b%2b">
+ <img src="https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python">
+ <img src="hhttps://img.shields.io/badge/javascript-90%25-yellowgreen?style=for-the-badge&logo=javascript">
+ <img src="hhttps://img.shields.io/badge/opencv-90%25-yellowgreen?style=for-the-badge&logo=opencv"> 
+ <img src="https://img.shields.io/badge/Assenbly-70%25-9cf?style=for-the-badge&logo=Assembly">
+ <img src="https://img.shields.io/badge/SQL-70%25-ff8e7f?style=for-the-badge&logo=MySQL">
+</div>
 
 <!---
 MG-Jang/MG-Jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
