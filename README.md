@@ -23,6 +23,10 @@ Feel free to contact me!
   - Major: Electronic & Electrical Engineering
   - 2015.03 ~2022.02
 
+## My Tech Stacks
+
+  #00599C
+  
 
 <!---
 MG-Jang/MG-Jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
