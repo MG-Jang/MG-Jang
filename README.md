@@ -16,7 +16,7 @@ Feel free to contact me!
 - Programmers Autonomous Driving
   - 2022.11 ~ 2023.3
   
-- SAMSUNG SW ACADEMY FOR YOUYH (SSAFY) 
+- SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) 
   - 2022.01 ~ 2022.12
 
 - Hongik University
