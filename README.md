@@ -5,7 +5,7 @@ Feel free to contact me!
   
 ## Career🎯
 
-- T-Robotics
+- T-Robotics Smart Factory Engineer
   - 2023.04 ~
 - Programmers Autonomous Driving
   - 2022.11 ~ 2023.3
