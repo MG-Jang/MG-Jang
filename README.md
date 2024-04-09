@@ -32,7 +32,7 @@ Feel free to contact me!
  <img src="https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python">
  <img src="https://img.shields.io/badge/opencv-100%25-blue?style=for-the-badge&logo=opencv">
   
- <img src="hhttps://img.shields.io/badge/javascript-90%25-yellowgreen?style=for-the-badge&logo=javascript">
+ <img src="hhttps://img.shields.io/badge/opencv-90%25-yellowgreen?style=for-the-badge&logo=opencv">
   
  <img src="hhttps://img.shields.io/badge/java-90%25-yellowgreen?style=for-the-badge&logo=java">
  <img src="https://img.shields.io/badge/Assenbly-50%25-9cf?style=for-the-badge&logo=Assembly">
