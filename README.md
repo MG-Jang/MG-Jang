@@ -4,8 +4,8 @@ Feel free to contact me!
   ✉ jang23mg@naver.com
   
 ## Career🎯
-- Supergate AI semiconductor
-  - 2024.01 ~ Present
+- Saltlux WEB AI Curriculum
+  - 2024.03 ~ Present
 - T-Robotics Smart Factory Engineer
   - 2023.04 ~ 2023.12
 - Programmers Autonomous Driving
