@@ -31,6 +31,7 @@ Feel free to contact me!
  <img src="https://img.shields.io/badge/C++-100%25-yellowgreen?style=for-the-badge&logo=c%2b%2b">
  <img src="https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python">
  <img src="https://img.shields.io/badge/opencv-100%25-blue?style=for-the-badge&logo=opencv">
+<img src="https://img.shields.io/badge/opencv-100%25-blue?style=for-the-badge&logo=opencv">
  <img src="hhttps://img.shields.io/badge/opencv-90%25-yellowgreen?style=for-the-badge&logo=opencv">
   
  <img src="hhttps://img.shields.io/badge/java-90%25-yellowgreen?style=for-the-badge&logo=java">
