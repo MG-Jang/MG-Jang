@@ -27,12 +27,10 @@ Feel free to contact me!
   
 ### Language
 <div>
- <img src="https://img.shields.io/badge/C-100%25-yellow?style=for-the-badge&logo=C">
  <img src="https://img.shields.io/badge/C++-100%25-yellowgreen?style=for-the-badge&logo=c%2b%2b">
  <img src="https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python">
- <img src="https://img.shields.io/badge/opencv-100%25-blue?style=for-the-badge&logo=opencv">
-
  <img src="https://img.shields.io/badge/java-90%25-yellowgreen?style=for-the-badge&logo=java">
+ <img src="https://img.shields.io/badge/opencv-100%25-blue?style=for-the-badge&logo=opencv">
  <img src="https://img.shields.io/badge/Assenbly-50%25-9cf?style=for-the-badge&logo=Assembly">
  <img src="https://img.shields.io/badge/SQL-70%25-ff8e7f?style=for-the-badge&logo=MySQL">
 </div>
