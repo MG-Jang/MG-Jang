@@ -20,15 +20,17 @@ Feel free to contact me!
 
  ## Repositories
 - Notion <hr>
-  - JAVA Notion <br/>
+  - JAVA Algorithm <br/>
   https://myoung-geun-jang.notion.site/JAVA-2443c0f1dbbd47c9849c0c2fb5e7b59d
-  - SQL&Docker Notion <br/>
+  - SQL&Docker <br/>
   https://myoung-geun-jang.notion.site/SQL-Docker-ebc1901f4bc94a5eadd42b26d7e45932
-- C-CPP-CODE: 알고리즘 정리
-- object_tracking_drone-OTD-: 자율주행 드론 프로젝트
-- iot-car-project: 삼성전자(SSAFY) 프로젝트(영상처리 기반 차량)
-- SAMSUNG-IOT-ROBOT-PJT-BOBI: 삼성전자(SSAFY)프로젝트 아이돌봄 로봇 보비
-  
+  - CPP Algorithm <br/>
+  https://myoung-geun-jang.notion.site/CPP-Algorithm-60f17e779cb34ce9a5bc654f4a9b9d4f
+- GITHUB <hr>
+  - SAMSUNG-IOT-ROBOT-PJT-BOBI: 삼성전자(SSAFY)프로젝트 아이돌봄 로봇 보비 <br/>
+  https://github.com/MG-Jang/SAMSUNG-IOT-ROBOT-PJT-BOBI
+  - SAMSUNG iot-car-project: 삼성전자(SSAFY) 프로젝트(영상처리 기반 차량) <br/>
+  https://github.com/MG-Jang/Morai-autonomous-simulator
 ### Language
 <div>
  <img src="https://img.shields.io/badge/C++-100%25-yellowgreen?style=for-the-badge&logo=c%2b%2b">
