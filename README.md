@@ -6,8 +6,6 @@ Feel free to contact me!
 ## Career🎯
 - T-Robotics Smart Factory Engineer
   - 2023.04 ~ 2023.12
-- Programmers Autonomous Driving
-  - 2022.11 ~ 2023.03
   
 - SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) 
   - 2022.01 ~ 2022.12
