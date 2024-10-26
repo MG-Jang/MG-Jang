@@ -4,9 +4,12 @@ Feel free to contact me!
   ✉ jang23mg@naver.com
   
 ## Career🎯
+- AI big data platform training
+  - 2024.03 ~ 2024.08
+  
 - T-Robotics Smart Factory Engineer
   - 2023.04 ~ 2023.12
-  
+
 - SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) 
   - 2022.01 ~ 2022.12
 
