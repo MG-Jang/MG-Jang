@@ -19,7 +19,8 @@ Feel free to contact me!
 
  ## Repositories
 - GITHUB <hr>
-  - SAMSUNG-IOT-ROBOT-PJT-BOBI: 삼성전자(SSAFY)프로젝트 아이돌봄 로봇 보비 <br/>
+  - SAMSUNG-IOT-ROBOT-PJT-BOBI:
+  삼성전자(SSAFY)프로젝트 아이돌봄 로봇 보비 <br/>
   https://github.com/MG-Jang/SAMSUNG-IOT-ROBOT-PJT-BOBI
   - SAMSUNG iot-car-project: 삼성전자(SSAFY) 프로젝트(영상처리 기반 차량) <br/>
   https://github.com/MG-Jang/Morai-autonomous-simulator
