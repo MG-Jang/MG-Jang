@@ -19,12 +19,14 @@ Feel free to contact me!
 
  ## Repositories
 - Notion <hr>
+  - CPP Algorithm <br/>
+  https://myoung-geun-jang.notion.site/CPP-Algorithm-60f17e779cb34ce9a5bc654f4a9b9d4f
+  - Python Algorithm <br/>
+  https://myoung-geun-jang.notion.site/CPP-Algorithm-60f17e779cb34ce9a5bc654f4a9b9d4f
   - JAVA Algorithm <br/>
   https://myoung-geun-jang.notion.site/JAVA-2443c0f1dbbd47c9849c0c2fb5e7b59d
   - SQL&Docker <br/>
   https://myoung-geun-jang.notion.site/SQL-Docker-ebc1901f4bc94a5eadd42b26d7e45932
-  - CPP Algorithm <br/>
-  https://myoung-geun-jang.notion.site/CPP-Algorithm-60f17e779cb34ce9a5bc654f4a9b9d4f
 - GITHUB <hr>
   - SAMSUNG-IOT-ROBOT-PJT-BOBI: 삼성전자(SSAFY)프로젝트 아이돌봄 로봇 보비 <br/>
   https://github.com/MG-Jang/SAMSUNG-IOT-ROBOT-PJT-BOBI
