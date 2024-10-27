@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @MyoungGeun-Jang<h5>
 
 Feel free to contact me!
-  ✉ jang23mg@naver.com
+  ✉ jang23mg@naver.com<br/>
 This is my portfolio
   📑 https://github.com/MG-Jang/Portfolio
   
