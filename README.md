@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @MyoungGeun-Jang<h5>
 
-Feel free to contact me!
+Feel free to contact me!<br/>
   ✉ jang23mg@naver.com<br/>
-This is my portfolio
+This is my portfolio<br/>
   📑 https://github.com/MG-Jang/Portfolio
   
 ## Career🎯
