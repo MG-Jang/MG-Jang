@@ -2,6 +2,8 @@
 
 Feel free to contact me!
   ✉ jang23mg@naver.com
+This is my portfolio
+  📑 https://github.com/MG-Jang/Portfolio
   
 ## Career🎯
 - AI big data platform training
