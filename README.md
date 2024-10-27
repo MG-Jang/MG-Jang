@@ -22,7 +22,8 @@ Feel free to contact me!
   - SAMSUNG-IOT-ROBOT-PJT-BOBI: <br/>
   삼성전자(SSAFY)프로젝트 아이돌봄 로봇 보비 <br/>
   https://github.com/MG-Jang/SAMSUNG-IOT-ROBOT-PJT-BOBI
-  - SAMSUNG iot-car-project: 삼성전자(SSAFY) 프로젝트(영상처리 기반 차량) <br/>
+  - SAMSUNG AI Vision iot-car-project:<br/>
+  삼성전자(SSAFY) 프로젝트(영상처리 기반 차량) <br/>
   https://github.com/MG-Jang/Morai-autonomous-simulator
  
 - Notion <hr>
