@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @MyoungGeun-Jang<h5>
 
+<img src="./img/profileimg.jpg">
+
 ### Feel free to contact me!
   ✉ jang23mg@naver.com<br/>
 ### Check out my portfolio on GitHub! <br/>
