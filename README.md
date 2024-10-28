@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @MyoungGeun-Jang<h5>
-<img src="./img/profileimg.jpg" width="180" height="190" >
+<img src="./img/profileimg.jpg" width="160" height="170" >
 
 ### ✉ Feel free to contact me!
   jang23mg@naver.com<br/>
