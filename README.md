@@ -3,7 +3,7 @@
 
 ### ✉ Feel free to contact me!
   jang23mg@naver.com<br/>
-### 📑 Check out my portfolio on GitHub! <br/>
+### 📑 Check out my portfolio on GitHub! <br/>구조
   https://github.com/MG-Jang/Portfolio
 
 ## Career🎯
@@ -13,7 +13,7 @@
 - T-Robotics Smart Factory Engineer
   - 2023.04 ~ 2023.12
 
-- SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) 
+- SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) Seoul_campus
   - 2022.01 ~ 2022.12
 
 - Hongik University(KR_SEOUL)
