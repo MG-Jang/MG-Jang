@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @MyoungGeun-Jang<h5>
 <img src="./img/profileimg.jpg" width="180" height="190" >
 
-### Feel free to contact me!
-  ✉ jang23mg@naver.com<br/>
-### Check out my portfolio on GitHub! <br/>
-  📑 https://github.com/MG-Jang/Portfolio
+### ✉ Feel free to contact me!
+  jang23mg@naver.com<br/>
+### 📑 Check out my portfolio on GitHub! <br/>
+  https://github.com/MG-Jang/Portfolio
 
 ## Career🎯
 - AI big data platform training
