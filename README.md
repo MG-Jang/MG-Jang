@@ -10,7 +10,7 @@
 - AI big data platform training
   - 2024.03 ~ 2024.08
   
-- T-Robotics Smart Factory Engineer
+- T-Robotics Smart Factory SW Engineer
   - 2023.04 ~ 2023.12
 
 - SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) Seoul_campus
