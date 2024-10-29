@@ -3,7 +3,7 @@
 
 ### ✉ Feel free to contact me!
   jang23mg@naver.com<br/>
-### 📑 Check out my portfolio on GitHub! <br/>구조
+### 📑 Check out my portfolio on GitHub! <br/>
   https://github.com/MG-Jang/Portfolio
 
 ## Career🎯
