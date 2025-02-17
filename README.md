@@ -7,8 +7,6 @@
   https://github.com/MG-Jang/Portfolio
 
 ## Career🎯
-- QBicware AI SW Engineer
-  - 2024.11 ~
 
 - AI big data platform training
   - 2024.03 ~ 2024.08
