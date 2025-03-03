@@ -43,6 +43,7 @@
  <img src="https://img.shields.io/badge/SQL-70%25-ff8e7f?style=for-the-badge&logo=MySQL">
 </div>
 
+<div align="center">
 
 ### ✨ Skills
 
