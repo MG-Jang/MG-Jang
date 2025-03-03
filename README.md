@@ -8,13 +8,13 @@
 
 ## Career🎯
 
-- QBicware 
+- QBicware co. ITS Traffic AI SW Engineer
   - 2024.11 ~ Present
 
 - AI big data platform training
   - 2024.03 ~ 2024.08
   
-- T-Robotics Smart Factory SW Engineer
+- T-Robotics co. Smart Factory SW Engineer
   - 2023.04 ~ 2023.12
 
 - SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) Seoul_campus
