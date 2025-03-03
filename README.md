@@ -56,10 +56,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🔌 Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%231A76D2.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![NVIDIA Jetson TX2](https://img.shields.io/badge/NVIDIA%20Jetson%20TX2-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-%231A76D2.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🛠️ Back-end 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
