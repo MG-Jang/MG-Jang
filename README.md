@@ -32,19 +32,6 @@
   - SAMSUNG AI Vision Autonomus-car-project:<br/>
   삼성전자(SSAFY) 프로젝트(영상처리 기반 차량) <br/>
   https://github.com/MG-Jang/Morai-autonomous-simulator
- 
-- Notion <hr>
-  - CPP Algorithm <br/>
-  https://myoung-geun-jang.notion.site/CPP-Algorithm-60f17e779cb34ce9a5bc654f4a9b9d4f
-  - Python Algorithm <br/>
-  https://myoung-geun-jang.notion.site/CPP-Algorithm-60f17e779cb34ce9a5bc654f4a9b9d4f
-  - JAVA Algorithm <br/>
-  https://myoung-geun-jang.notion.site/JAVA-2443c0f1dbbd47c9849c0c2fb5e7b59d
-  - SQL&Docker <br/>
-  https://myoung-geun-jang.notion.site/SQL-Docker-ebc1901f4bc94a5eadd42b26d7e45932
-
-  - Spring Boot <br/>
-  https://www.notion.so/myoung-geun-jang/Spring-boot-639f53a59b234dc89941479fbb57e9df
 
 
 ### Language
