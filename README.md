@@ -8,6 +8,9 @@
 
 ## Career🎯
 
+- QBicware 
+  - 2024.11 ~ Present
+
 - AI big data platform training
   - 2024.03 ~ 2024.08
   
