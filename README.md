@@ -19,7 +19,7 @@
 - SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) Seoul_campus
   - 2022.01 ~ 2022.12
 
-- Hongik University(KR_SEOUL)
+- Hongik University (KR_SEOUL)
   - Major: Electronic & Electrical Engineering
   - 2015.03 ~2022.02
 
