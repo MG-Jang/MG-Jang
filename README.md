@@ -47,8 +47,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🧱 Graphics 
-![OpenGL](https://img.shields.io/badge/OpenGL-%23404040.svg?style=for-the-badge&logo=opengl&logoColor=white)  
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  
+![OpenGL](https://img.shields.io/badge/OpenGL-%23404040.svg?style=for-the-badge&logo=opengl&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 📊 Data
