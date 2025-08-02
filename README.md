@@ -41,13 +41,15 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-
 ### 👁️ Computer Vision AI 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-%23008080.svg?style=for-the-badge&logo=yolo&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+### 🧱 Graphics 
+![OpenGL](https://img.shields.io/badge/OpenGL-%23404040.svg?style=for-the-badge&logo=opengl&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 📊 Data
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
