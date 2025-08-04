@@ -4,7 +4,7 @@
   jang23mg@naver.com<br/>
 ### 📑 Check out my portfolio on GitHub! <br/>
   https://github.com/MG-Jang/Portfolio
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 ## Career🎯
 
 - QBicware co. ITS Traffic AI SW Engineer
