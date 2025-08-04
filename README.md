@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @MyoungGeun-Jang<h5>
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 ### ✉ Feel free to contact me!
   jang23mg@naver.com<br/>
 ### 📑 Check out my portfolio on GitHub! <br/>
