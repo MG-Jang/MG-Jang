@@ -4,7 +4,7 @@
   jang23mg@naver.com<br/>
 ### 📑 Check out my portfolio on GitHub! <br/>
   https://github.com/MG-Jang/Portfolio
-![](./profile-3d-contrib/profile-green-animate.svg)
+  
 ## Career🎯
 
 - QBicware co. ITS Traffic AI SW Engineer
@@ -79,7 +79,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!---
 MG-Jang/MG-Jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
