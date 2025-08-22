@@ -5,25 +5,30 @@
 ### 📑 Check out my portfolio on GitHub! <br/>
   https://github.com/MG-Jang/Portfolio
   
-## 💼 Career
+## 💼 Career  
 
-QBicware Co. – ITS Traffic AI Software Engineer
-Nov 2024 – Present
+- **QBicware Co.** – ITS Traffic AI Software Engineer  
+  *Nov 2024 – Present*  
 
-AI Big Data Platform Training
-Mar 2024 – Aug 2024
+- **AI Big Data Platform Training**  
+  *Mar 2024 – Aug 2024*  
 
-T-Robotics Co. – Smart Factory Software Engineer
-Apr 2023 – Dec 2023
+- **T-Robotics Co.** – Smart Factory Software Engineer  
+  *Apr 2023 – Dec 2023*  
 
-Samsung Software Academy for Youth (SSAFY), Seoul Campus
-Jan 2022 – Dec 2022
+- **Samsung Software Academy for Youth (SSAFY), Seoul Campus**  
+  *Jan 2022 – Dec 2022*  
 
-## 🎓 Education
+---
 
-Hongik University, Seoul, KR
-B.S. in Electronic & Electrical Engineering
-Mar 2015 – Feb 2022
+## 🎓 Education  
+
+- **Korea University, Seoul, KR**  
+  M.S. in Artificial Intelligence Convergence (입학: Sep 2025)  
+
+- **Hongik University, Seoul, KR**  
+  B.S. in Electronic & Electrical Engineering  
+  *Mar 2015 – Feb 2022*  
 
 
  ## Repositories📑
