@@ -24,11 +24,11 @@
 ## 🎓 Education  
 
 - **Korea University(고려대), Seoul, KR**  
-  M.S. in Artificial Intelligence Convergence(인공지능융합)
+  M.S. in Artificial Intelligence Convergence(인공지능융합)<br>
   *Sep 2025(입학) ~ Present* 
 
 - **Hongik University(홍익대), Seoul, KR**  
-  B.S. in Electronic & Electrical Engineering(전자전기공학부)
+  B.S. in Electronic & Electrical Engineering(전자전기공학부)<br>
   *Mar 2015(입학) – Feb 2022(졸업)*  
 
 
