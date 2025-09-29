@@ -7,8 +7,11 @@
   
 ## 💼 Career  
 
+- **DeepingSource Co.** – Vision AI Software Engineer
+  *Sep 2025 – Present*  
+
 - **QBicware Co.** – ITS Traffic AI Software Engineer  
-  *Nov 2024 – Present*  
+  *Nov 2024 – Sep 2025*  
 
 - **AI Big Data Platform Training**  
   *Mar 2024 – Aug 2024*  
