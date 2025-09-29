@@ -7,7 +7,7 @@
   
 ## 💼 Career  
 
-- **DeepingSource Co.** – Vision AI Software Engineer
+- **DeepingSource Co.** – Vision AI Software Engineer <br>
   *Sep 2025 – Present*  
 
 - **QBicware Co.** – ITS Traffic AI Software Engineer  
