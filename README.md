@@ -26,14 +26,15 @@
 
 ## 🎓 Education  
 
-- **Korea University(고려대), Seoul, KR**  
+- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Korea%20University%20logotype%20(English%20version).svg" alt="Korea University" width="120"/><br>
+  **Korea University(고려대), Seoul, KR**  
   M.S. in Artificial Intelligence Convergence(인공지능융합)<br>
   *Sep 2025(입학) ~ Present* 
 
-- **Hongik University(홍익대), Seoul, KR**  
+- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hongik%20University%20Logo.svg" alt="Hongik University" width="120"/><br>
+  **Hongik University(홍익대), Seoul, KR**  
   B.S. in Electronic & Electrical Engineering(전자전기공학부)<br>
-  *Mar 2015(입학) – Feb 2022(졸업)*  
-
+  *Mar 2015(입학) – Feb 2022(졸업)*
 
  ## Repositories📑
 #### SAMSUNG SW ACADEMY FOR YOUTH Projects 
