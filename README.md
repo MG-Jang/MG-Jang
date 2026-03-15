@@ -56,7 +56,7 @@
 ### 👁️ Computer Vision AI 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-%23008080.svg?style=for-the-badge&logo=yolo&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 🧱 Graphics 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23404040.svg?style=for-the-badge&logo=opengl&logoColor=white)
